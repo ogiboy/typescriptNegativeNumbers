@@ -1,0 +1,2 @@
+# typescriptNegativeNumbers
+Created with CodeSandbox
